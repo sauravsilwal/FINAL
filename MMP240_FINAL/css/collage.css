@@ -25,6 +25,15 @@ h1{
 
 .gallery{
     margin:10px 50px;
+        margin: 0px;
+    padding:0px;
+    list-style:none; 
+    color: white;
+    position:relative;
+    display: inline-block;
+  justify-content: center;
+  align-items: center;
+    
 }
 .gallery img{
     width:230px;
@@ -44,7 +53,9 @@ ul {
     list-style:none; 
     color: white;
     position:relative;
-    left: 14%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 ul li{

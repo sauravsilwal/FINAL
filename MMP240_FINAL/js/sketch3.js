@@ -4,7 +4,7 @@ var r = 0;
 var sz = 75;
 
 function setup() {
-	createCanvas(1280, 800);
+	createCanvas(1280, 1500);
 
 			}
 			

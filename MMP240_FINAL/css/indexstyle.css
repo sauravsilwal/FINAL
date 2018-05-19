@@ -46,7 +46,7 @@ header::before{
     right:0;
     top:0;
     display:block;
-    background:url(/images/pulsar.jpg);  
+    background:url(../images/pulsar.jpg);  
     background-size: cover;
     transform-origin: center center 0;
     transform: translateZ(-1px) scale(2);
@@ -71,7 +71,7 @@ ul {
     list-style:none; 
     color: white;
     position:relative;
-    left: 14%;
+    left: 20%;
 }
 
 ul li{

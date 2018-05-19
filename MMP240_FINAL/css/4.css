@@ -6,7 +6,6 @@
 
 html{
     height: 100%;
-    overflow: hidden;
 }
 
 
@@ -38,7 +37,9 @@ ul {
     list-style:none; 
     color: white;
     position:relative;
-    left: 14%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 ul li{
