@@ -71,7 +71,9 @@ ul {
     list-style:none; 
     color: white;
     position:relative;
-    left: 20%;
+    display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 ul li{
